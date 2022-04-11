@@ -9,3 +9,4 @@ List of my projects at 42.
 | ft_printf     | The goal is to recode the printf function.                                                                         | https://github.com/thomasbrq/ft_printf     |
 | minitalk      | The purpose of this project is to code a small data exchange program using UNIX signals.                           | https://github.com/thomasbrq/minitalk      |
 | push_swap     | The goal of this project is to sort data on a stack, with a limited set of instructions, in less possible moves.   | https://github.com/thomasbrq/push_swap     |
+| so_long       | This project is a small 2D game with minilibx.                                                                     | https://github.com/thomasbrq/so_long       |
