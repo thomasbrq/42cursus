@@ -12,3 +12,4 @@ List of my projects at 42.
 | so_long       | This project is a small 2D game with minilibx.                                                                     | https://github.com/thomasbrq/so_long       |
 | minishell     | The objective of this project is to create a simple shell.                                                         | https://github.com/thomasbrq/minishell     |
 | Philosophers  | The Dining Philosophers problem in C.                                                                              | https://github.com/thomasbrq/Philosophers  |
+| NetPractice   | The goal of this project is to discover the network through practical cases.                                       | https://github.com/thomasbrq/NetPractice   |
