@@ -14,3 +14,4 @@ List of my projects at 42.
 | Philosophers  | The Dining Philosophers problem in C.                                                                              | https://github.com/thomasbrq/Philosophers  |
 | NetPractice   | The goal of this project is to discover the network through practical cases.                                       | https://github.com/thomasbrq/NetPractice   |
 | cub3d         | The goal of this project is to recreate a minimal version of the famous Wolfenstein 3D game.                       | https://github.com/thomasbrq/cub3d|
+| C++ Modules   | Introduction to the specificities of C++ compared to C and to object-oriented programming.                         | https://github.com/thomasbrq/CPP_Modules|
