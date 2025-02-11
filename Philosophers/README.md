@@ -1,0 +1,33 @@
+# Philosophers
+The Dining Philosophers problem in C.
+
+## How to use
+![Compile with macos](https://badgen.net/badge/build/macOS/grey?icon=apple)
+
+Clone the project
+```bash
+git clone https://github.com/thomasbrq/Philosophers.git
+```
+
+Go to project directory
+```bash
+cd Philosophers
+cd philo
+```
+
+Build the executable.
+```bash
+make
+```
+
+Then launch the program
+```bash
+./philo <number of philo> <time to die (in ms)> <time to eat (in ms)> <time to sleep (in ms)> <number_of_times_each_philosopher_must_eat (optional)>
+```
+
+## The Norm
+This project was realized following [the standard 42](https://raw.githubusercontent.com/42Paris/norminette-v3/master/pdf/en.norm.pdf). 
+
+## Authors
+
+- [@thomasbrq](https://www.github.com/thomasbrq)
